@@ -9,4 +9,4 @@ What Is Reynax Encryption Software?
 
 
 
-![](images/1.png)
+![1](https://user-images.githubusercontent.com/92997567/139600133-d83d574f-5427-4b26-ad2a-c7e1a1aabd0a.png)
