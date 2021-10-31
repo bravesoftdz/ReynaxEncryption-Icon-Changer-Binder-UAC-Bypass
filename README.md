@@ -6,3 +6,7 @@ What Is Reynax Encryption Software?
 2.Include Icon Changer, You Can Change Your Applications Icons.
 3.Include Binder, You Can Bind Files.
 4.Include UAC Bypass, Which Bypasses Windows Defender And Updated, Using ROT13 Encryption.
+
+
+
+![](images/1.png)
