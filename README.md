@@ -13,3 +13,10 @@ What Is Reynax Encryption Software?
 
 ![3](https://user-images.githubusercontent.com/92997567/139600257-23b48c8a-652e-4f4c-bb17-dae5bd8f07b2.png)
 ![2](https://user-images.githubusercontent.com/92997567/139600260-7c1cf805-c657-4148-bb22-826723fe8a54.png)
+
+
+, the creator all those associated with the development and production of this program are not responsible for any actions. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above
+
+Donation :
+
+BTC: 12oCg6y439NHdbBAcLxBwdC2wU27K22NUJ
